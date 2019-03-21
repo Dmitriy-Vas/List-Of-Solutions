@@ -1,0 +1,5 @@
+# IDE configs
+*.ipr
+*.iws
+*.iml
+.idea/
