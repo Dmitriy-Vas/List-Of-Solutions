@@ -8,3 +8,4 @@ All packages have their own tests, you can check them by using `go test`.
 + [Count Words](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Count%20Words/countwords.go)
 + [Count Vowels](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Count%20Vowels/vowels.go)
 + [Reverse String](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Reverse%20String/reverse.go)
++ [Capitalize String](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Capitalize%20String/capitalize.go)
