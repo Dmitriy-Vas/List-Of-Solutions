@@ -1,4 +1,4 @@
-package palindrome
+package Check_Palindrome
 
 import (
 	"regexp"
