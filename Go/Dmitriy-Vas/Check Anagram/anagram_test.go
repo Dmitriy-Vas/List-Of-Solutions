@@ -4,18 +4,19 @@ import (
 	"testing"
 )
 
-var (
-	anagrames = map[string]string {
-		"iceman": "cinema",
-		"conversation": "voices rant on",
-		"dynamite": "may it end",
+var anagrames = []struct {
+	s string
+	w string
+	}{
+		{"iceman", "cinema"},
+		{"conversation", "voices rant on"},
+		{"dynamite", "may it end"},
 	}
-)
 
 func TestAnagram(t *testing.T) {
-	for k, v := range anagrames {
-		if !Anagram(k, v) {
-			t.Fatal(k, v)
+	for _, v := range anagrames {
+		if !Anagram(v.s, v.w) {
+			t.Fatal(v)
 		}
 	}
 }
