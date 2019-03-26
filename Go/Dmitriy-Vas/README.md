@@ -12,6 +12,7 @@ All packages have their own tests, you can check them by using `go test`.
 + [Escape/Unescape HTML](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Escape%2FUnescape%20HTML/escape.go)
 + [Pad String](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Pad%20String/pad.go)
 + [Check Anagram](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Check%20Anagram/anagram.go)
++ [Fizz Buzz](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Fizz%20Buzz/fizzbuzz.go)
 
 ## TODO
 + Add my own "unescape html" implementation.
