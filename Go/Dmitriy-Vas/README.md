@@ -26,7 +26,7 @@ All packages have their own tests, you can check them by using `go test`.
 <summary>Math</summary>
 
 + Prime Numbers
-+ Factorial
++ [Factorial](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Factorial/factorial.go)
 + Average Numbers
 + Common Divisor
 + Digitize
