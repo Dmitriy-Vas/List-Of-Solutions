@@ -37,7 +37,7 @@ All packages have their own tests, you can check them by using `go test`.
 + Get Pi
 + Get e
 + Progression
-+ Fibonacci Sequence
++ [Fibonacci Sequence](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Fibonacci%20Sequence/fibonacci.go)
 + Degrees to Radians
 + Binomial Coefficient
 
