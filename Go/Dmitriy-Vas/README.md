@@ -32,7 +32,7 @@ All packages have their own tests, you can check them by using `go test`.
 + Digitize
 + Calculator
 + Luhn's Algorithm
-+ Midpoint
++ [Midpoint](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Midpoint/mid.go)
 + Collatz Conjecture
 + Get Pi
 + Get e
