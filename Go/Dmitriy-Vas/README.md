@@ -31,14 +31,14 @@ All packages have their own tests, you can check them by using `go test`.
 + Common Divisor
 + Digitize
 + Calculator
-+ Luhn's Algorithm
++ Luhn Algorithm
 + [Midpoint](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Midpoint/mid.go)
 + Collatz Conjecture
 + Get Pi
 + Get e
 + Progression
 + [Fibonacci Sequence](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Fibonacci%20Sequence/fibonacci.go)
-+ [Degrees to Radians]((https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Degrees%20to%20Radians/degtorad.go))
++ [Degrees to Radians](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Degrees%20to%20Radians/degtorad.go)
 + Binomial Coefficient
 
 </details>
@@ -68,7 +68,7 @@ All packages have their own tests, you can check them by using `go test`.
 
 + Grayscale Image
 + Watermark Image
-+ Hough Transform
++ [Hough Transform](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Hough%20Transform/hough.go)
 + Captcha Generator
 
 </details>
@@ -85,3 +85,4 @@ All packages have their own tests, you can check them by using `go test`.
 
 ## TODO
 + Add my own "unescape html" implementation.
++ Add my own "Hough Transfom" implementation.
