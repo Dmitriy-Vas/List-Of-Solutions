@@ -4,6 +4,9 @@ import (
 	"strings"
 )
 
-func Pad(s string, l int) string {
-	return strings.Repeat(" ", l/2) + s + strings.Repeat(" ", l/2)
+func Pad(s string, l int, char string) string {
+	if len(s) > l {
+		return s
+	}
+	return strings.Repeat(char, l/2) + s + strings.Repeat(char, l/2)
 }
