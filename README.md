@@ -4,7 +4,7 @@ This repository contains a list of solutions linked to [List-Of-Projects](https:
 
 ## Contributing
 
-Make sure you follow [contributing](https://github.com/Dmitriy-Vas/List-Of-Projects/tree/master/#CONTRIBUTING.md) instructions properly.
+Make sure you follow [contributing](https://github.com/Dmitriy-Vas/List-Of-Projects/blob/master/CONTRIBUTING.md) instructions properly.
 
 ## Contents
 
