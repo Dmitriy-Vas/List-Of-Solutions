@@ -79,10 +79,6 @@ All packages have their own tests, you can check them by using `go test`.
 + [Lines Intersection](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Lines%20Intersection/intersection.go)
 + Line and Plane Intersection
 + Draw Sphere
-+ Triangle Overlap
++ [Triangle Overlap](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Triangle%20Overlap/overlap.go)
 
 </details>
-
-## TODO
-+ Add my own "unescape html" implementation.
-+ Add my own "Hough Transfom" implementation.
