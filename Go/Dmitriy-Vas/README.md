@@ -25,7 +25,7 @@ All packages have their own tests, you can check them by using `go test`.
 <details>
 <summary>Math</summary>
 
-+ Prime Numbers
++ [Prime Numbers](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Prime%20Numbers/prime.go)
 + [Factorial](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Factorial/factorial.go)
 + Average Numbers
 + Common Divisor
