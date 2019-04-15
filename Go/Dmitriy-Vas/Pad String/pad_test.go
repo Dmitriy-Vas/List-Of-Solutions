@@ -7,10 +7,10 @@ import (
 )
 
 func TestPad(t *testing.T) {
-	if a := Pad("test", 4); a != "  test  " {
+	if a := Pad("test", 4, " "); a != "  test  " {
 		t.Fatal(a)
 	}
-	if a := Pad(strconv.Itoa(500), 50); a != strings.Repeat(" ", 25) + "500" + strings.Repeat(" ", 25) {
+	if a := Pad(strconv.Itoa(500), 50, " "); a != strings.Repeat(" ", 25) + "500" + strings.Repeat(" ", 25) {
 		t.Fatal(a)
 	}
 }
