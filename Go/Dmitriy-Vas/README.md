@@ -59,7 +59,7 @@ All packages have their own tests, you can check them by using `go test`.
 + Web Server
 + Port Scanner
 + Packet Sniffer
-+ FTP
++ [FTP](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/FTP/ftp.go)
 + Send Email
 
 </details>
