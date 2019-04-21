@@ -1,6 +1,6 @@
 ## Description
 
-All packages have their own tests, you can check them by using `go test`.
+All packages have their own tests, you can check them by using `go test` or `go test ./...` to check them all.
 
 ## Table of contents
 
