@@ -3,6 +3,7 @@ package Hough_Transform
 import (
 	"crypto/md5"
 	"io/ioutil"
+	"os"
 	"testing"
 )
 
@@ -24,5 +25,9 @@ func TestHough(t *testing.T) {
 	}
 	if md5.Sum(s) == md5.Sum(m) {
 		t.Fatal()
+	}
+	err = os.Remove("test.png")
+	if err != nil {
+		t.Fatal(err)
 	}
 }
