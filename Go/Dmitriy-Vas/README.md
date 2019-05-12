@@ -60,7 +60,7 @@ All packages have their own tests, you can check them by using `go test` or `go 
 + Port Scanner
 + Packet Sniffer
 + [FTP](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/FTP/ftp.go)
-+ Send Email
++ [Send Email](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Go/Dmitriy-Vas/Send%20Email/mail.go)
 
 </details>
 <details>
