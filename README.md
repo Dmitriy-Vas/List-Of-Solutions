@@ -9,6 +9,13 @@ Make sure you follow [contributing](https://github.com/Dmitriy-Vas/List-Of-Proje
 ## Contents
 
 <details>
+<summary>Haskell</summary>
+
+[Dmitriy-Vas](https://github.com/Dmitriy-Vas/List-Of-Solutions/tree/master/Haskell/Dmitriy-Vas)
+
+</details>
+
+<details>
 <summary>Go</summary>
 
 [Dmitriy-Vas](https://github.com/Dmitriy-Vas/List-Of-Solutions/tree/master/Go/Dmitriy-Vas)
