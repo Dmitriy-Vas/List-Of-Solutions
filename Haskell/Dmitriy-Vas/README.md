@@ -3,12 +3,12 @@
 <details>
 <summary>Text</summary>
 
-+ Check Palindrome
-+ Count Words
++ [Check Palindrome](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Check%20Palindrome/palindrome.hs)
++ [Count Words](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Count%20Words/words.hs)
 + Count Vowels
 + Reverse String
-+ Fizz Buzz
-+ Capitalize String
++ [Fizz Buzz](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Fizz%20Buzz/fizzbuzz.hs)
++ [Capitalize String](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Capitalize%20String/capitalize.hs)
 + Pluralize String
 + Escape/Unescape HTML
 + Pad String
@@ -22,7 +22,7 @@
 <summary>Math</summary>
 
 + Prime Numbers
-+ Factorial
++ [Factorial](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Factorial/factorial.hs)
 + Average Numbers
 + Common Divisor
 + Digitize
@@ -34,7 +34,7 @@
 + Get e
 + Progressions
 + Fibonacci Sequence
-+ Degrees to Radians
++ [Degrees to Radians](https://github.com/Dmitriy-Vas/List-Of-Solutions/blob/master/Haskell/Dmitriy-Vas/Radians%20%26%20Degrees/convert.hs)
 + Binomial Coefficient
 
 </details>
